@@ -10,9 +10,10 @@ Made with ❤️ by **Nonitoo** | `Nonyhunt3r v1.0`
 ![OSINT](https://img.shields.io/badge/OSINT-Tool-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-### 🚀 Features
+###  Features
 - 🔍 Check username on **90+ platforms** (Instagram, TikTok, GitHub, Reddit, Steam, Spotify, etc.)
 - ⚡ Fast scanning with clean output
 - 🎨 Colorful banner with `pyfiglet`
 - 💾 Save results automatically to `results.txt`
 - 🌍 Works on Linux, Windows, Mac
+
