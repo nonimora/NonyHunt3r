@@ -17,3 +17,4 @@ Made with ❤️ by **Nonitoo** | `Nonyhunt3r v1.0`
 - 💾 Save results automatically to `results.txt`
 - 🌍 Works on Linux, Windows, Mac
 
+==> Installation guide: See INSTALL.md
